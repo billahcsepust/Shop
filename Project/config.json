@@ -1,0 +1,19 @@
+﻿{
+  "Colors": {
+    "Favourite": "blue"
+  },
+  "ConnectionStrings": {
+    "MasumDatabaseString": "server=(localdb)\\ProjectsV13;Database=MyProjectDB;Integrated Security=true;MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "a;sfsd;dfgdst;yy;re;retewrte;dsfafa;oiuyu",
+    "Issuer": "http://localhost:8000",
+    "Audience": "users"
+  }
+}
